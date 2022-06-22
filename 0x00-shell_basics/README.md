@@ -1,1 +1,1 @@
-Move the file betty from /tmp/
+Betty in my first directory
