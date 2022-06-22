@@ -1,1 +1,1 @@
-Move the file betty
+Move the file betty from /tmp/
